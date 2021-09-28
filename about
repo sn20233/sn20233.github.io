@@ -1,0 +1,8 @@
+---
+layout: default
+title: Web Programming Page
+---
+<div class="blurb">
+  <h1>About</h1>
+  <p>Hello, this is my blog.<\p>
+</div>
